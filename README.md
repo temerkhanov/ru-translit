@@ -15,13 +15,16 @@
 
 ## Карты раскладки:
 Базовая:
+![Базовая](docs/Translit-Base.png)
 
 Shift:
+![Shift](docs/Translit-Shift.png)
 
 AltGr:
+![AltGr](docs/Translit-Alt.png)
 
-Shift + AltGr:
-
+AltGr + Shift:
+![AltGr + Shift](docs/Translit-Alt-Shift.png)
 
 ## Установка
 - Простой путь: распаковка архива Translit.zip, запуск Setup.exe
